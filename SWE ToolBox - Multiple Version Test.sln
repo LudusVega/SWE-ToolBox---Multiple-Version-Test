@@ -1,0 +1,74 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "SWE ToolBox - Multiple Version Test", "SWE ToolBox - Multiple Version Test\SWE ToolBox - Multiple Version Test.shproj", "{12957D0B-B3BA-46F6-8B0A-421BE46A8D39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWE Toolbox 2020", "SWE Toolbox 2020\SWE Toolbox 2020.csproj", "{F783A49B-2491-4A91-B7BD-870310820C72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWE Toolbox 2022", "SWE Toolbox 2022\SWE Toolbox 2022.csproj", "{BA5F27F0-8339-4185-BC1E-1343E0FBBCB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWE Toolbox 2023", "SWE Toolbox 2023\SWE Toolbox 2023.csproj", "{F6BD3600-9D42-405E-B7F1-ADE6B19C7C6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWE Toolbox 2024", "SWE Toolbox 2024\SWE Toolbox 2024.csproj", "{AC31AACC-2BD7-4BE1-9DE6-416A27BA5A1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWE Toolbox 2021", "SWE Toolbox 2021\SWE Toolbox 2021.csproj", "{F1B7B2D2-C9EA-48C2-A9BB-F6AC8C59078E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SWE Toolbox", "SWE Toolbox\SWE Toolbox.vdproj", "{C8E43DAC-5838-43DF-9DC6-EB9E220E284C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		DefaultBuild|Any CPU = DefaultBuild|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F783A49B-2491-4A91-B7BD-870310820C72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F783A49B-2491-4A91-B7BD-870310820C72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F783A49B-2491-4A91-B7BD-870310820C72}.DefaultBuild|Any CPU.ActiveCfg = Debug|Any CPU
+		{F783A49B-2491-4A91-B7BD-870310820C72}.DefaultBuild|Any CPU.Build.0 = Debug|Any CPU
+		{F783A49B-2491-4A91-B7BD-870310820C72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F783A49B-2491-4A91-B7BD-870310820C72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA5F27F0-8339-4185-BC1E-1343E0FBBCB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA5F27F0-8339-4185-BC1E-1343E0FBBCB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA5F27F0-8339-4185-BC1E-1343E0FBBCB7}.DefaultBuild|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA5F27F0-8339-4185-BC1E-1343E0FBBCB7}.DefaultBuild|Any CPU.Build.0 = Debug|Any CPU
+		{BA5F27F0-8339-4185-BC1E-1343E0FBBCB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA5F27F0-8339-4185-BC1E-1343E0FBBCB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6BD3600-9D42-405E-B7F1-ADE6B19C7C6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6BD3600-9D42-405E-B7F1-ADE6B19C7C6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6BD3600-9D42-405E-B7F1-ADE6B19C7C6E}.DefaultBuild|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6BD3600-9D42-405E-B7F1-ADE6B19C7C6E}.DefaultBuild|Any CPU.Build.0 = Debug|Any CPU
+		{F6BD3600-9D42-405E-B7F1-ADE6B19C7C6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6BD3600-9D42-405E-B7F1-ADE6B19C7C6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC31AACC-2BD7-4BE1-9DE6-416A27BA5A1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC31AACC-2BD7-4BE1-9DE6-416A27BA5A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC31AACC-2BD7-4BE1-9DE6-416A27BA5A1D}.DefaultBuild|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC31AACC-2BD7-4BE1-9DE6-416A27BA5A1D}.DefaultBuild|Any CPU.Build.0 = Debug|Any CPU
+		{AC31AACC-2BD7-4BE1-9DE6-416A27BA5A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC31AACC-2BD7-4BE1-9DE6-416A27BA5A1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1B7B2D2-C9EA-48C2-A9BB-F6AC8C59078E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1B7B2D2-C9EA-48C2-A9BB-F6AC8C59078E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1B7B2D2-C9EA-48C2-A9BB-F6AC8C59078E}.DefaultBuild|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1B7B2D2-C9EA-48C2-A9BB-F6AC8C59078E}.DefaultBuild|Any CPU.Build.0 = Debug|Any CPU
+		{F1B7B2D2-C9EA-48C2-A9BB-F6AC8C59078E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1B7B2D2-C9EA-48C2-A9BB-F6AC8C59078E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8E43DAC-5838-43DF-9DC6-EB9E220E284C}.Debug|Any CPU.ActiveCfg = Debug
+		{C8E43DAC-5838-43DF-9DC6-EB9E220E284C}.DefaultBuild|Any CPU.ActiveCfg = Debug
+		{C8E43DAC-5838-43DF-9DC6-EB9E220E284C}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7747CB4D-D368-46BE-B68A-A39437E8390F}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		SWE ToolBox - Multiple Version Test\SWE ToolBox - Multiple Version Test.projitems*{12957d0b-b3ba-46f6-8b0a-421be46a8d39}*SharedItemsImports = 13
+		SWE ToolBox - Multiple Version Test\SWE ToolBox - Multiple Version Test.projitems*{ac31aacc-2bd7-4be1-9de6-416a27ba5a1d}*SharedItemsImports = 4
+		SWE ToolBox - Multiple Version Test\SWE ToolBox - Multiple Version Test.projitems*{ba5f27f0-8339-4185-bc1e-1343e0fbbcb7}*SharedItemsImports = 4
+		SWE ToolBox - Multiple Version Test\SWE ToolBox - Multiple Version Test.projitems*{f6bd3600-9d42-405e-b7f1-ade6b19c7c6e}*SharedItemsImports = 4
+		SWE ToolBox - Multiple Version Test\SWE ToolBox - Multiple Version Test.projitems*{f783a49b-2491-4a91-b7bd-870310820c72}*SharedItemsImports = 4
+	EndGlobalSection
+EndGlobal

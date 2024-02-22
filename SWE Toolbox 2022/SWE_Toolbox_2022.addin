@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Application SWE_Toolbox</Name>
+		<Assembly>SWE Toolbox 2022.dll</Assembly>
+		<FullClassName>SWE_Toolbox.App</FullClassName>
+		<ClientId>50875713-1d91-4f59-9d5d-65cab63ad4d6</ClientId>
+		<VendorId>Systems West Engineers, Inc.</VendorId>
+		<VendorDescription>jsnyder@systemswestengineers.com</VendorDescription>
+	</AddIn>
+	<AddIn Type="Command">
+		<Name>LoadNameConvert</Name>
+		<Description>"Convert load names to SWE style."</Description>
+		<Assembly>SWE Toolbox 2022.dll</Assembly>
+		<FullClassName>SWE_Toolbox.LoadNameConvert</FullClassName>
+		<ClientId>04339085-7886-4acf-a117-8518fe8f277d</ClientId>
+		<VendorId>Systems West Engineers, Inc</VendorId>
+		<VendorDescription>jsnyder@systemswestengineers.com</VendorDescription>
+	</AddIn>
+</RevitAddIns>
